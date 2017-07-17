@@ -65,5 +65,8 @@ http://www.cyberforum.ru/ubuntu-linux/thread1016388.html
 
 	Более приемлемая схема - desert
 
+Источник:
+https://rtfm.co.ua/vim-ustanovka-cvetovoj-sxemy/
+
 ================================================================================
 
