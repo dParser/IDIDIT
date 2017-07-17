@@ -1,0 +1,9 @@
+RUBY
+
+1. Установка пакета "Nokogiri" 
+	gem install nokogiri
+	
+Источник:
+https://github.com/sparklemotion/nokogiri/blob/master/README.md
+
+================================================================================
