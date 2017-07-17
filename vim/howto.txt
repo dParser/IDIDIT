@@ -39,3 +39,31 @@ http://www.cyberforum.ru/ubuntu-linux/thread1016388.html
 
 ================================================================================
 
+3. Установка цветовой схемы
+
+	Что бы установить схему по-умолчанию – добавьте в файл ~/.vimrc строку:
+	colorscheme peachpuff
+Где peachpuff – имя схемы.
+
+Установленные схемы можно найти в каталоге:
+	$ ls -l /usr/share/vim/vim74/colors/
+	-rw-r--r-- 1 root root 2476 січ 2 2014 blue.vim
+	-rw-r--r-- 1 root root 2990 січ 2 2014 darkblue.vim
+	-rw-r--r-- 1 root root 548 січ 2 2014 default.vim
+	-rw-r--r-- 1 root root 2399 січ 2 2014 delek.vim
+	-rw-r--r-- 1 root root 1393 січ 2 2014 ron.vim
+	-rw-r--r-- 1 root root 2720 січ 2 2014 shine.vim
+	-rw-r--r-- 1 root root 2445 січ 2 2014 slate.vim
+	-rw-r--r-- 1 root root 1629 січ 2 2014 torte.vim
+	-rw-r--r-- 1 root root 1840 січ 2 2014 zellner.vim
+и.т.д
+
+А новые можно устанавливать в каталог ~/.vim/colors.
+
+Что бы узнать текущую схему – выполните:
+	color
+
+	Более приемлемая схема - desert
+
+================================================================================
+
